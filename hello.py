@@ -3,5 +3,5 @@ def say_hello(name: str) -> str:
 
 
 if __name__ == "__main__":
-    user_name = input("Enter your name: ")
+    user_name = input(" Enter your name: ")
     print(say_hello(user_name))
